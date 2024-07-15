@@ -83,7 +83,8 @@ Vendas por Categoria
 
 Vendas por Gênero
 
-![Vendas por Gênero](img/vendas por genero.PNG)
+![image](https://github.com/user-attachments/assets/cd581a7c-2195-49a8-aa7f-b2149723aa5a)
+
 
 ## Conclusão
 
