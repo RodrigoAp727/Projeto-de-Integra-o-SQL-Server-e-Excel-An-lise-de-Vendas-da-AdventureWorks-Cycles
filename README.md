@@ -73,7 +73,8 @@ Receita Total versus Custo Total por País
 
 Vendas por Mês
 
-img/vendas por mês.PNG
+![image](https://github.com/user-attachments/assets/7e734030-310e-4e52-a374-a04a1cd72610)
+
 
 Vendas por Categoria
 
